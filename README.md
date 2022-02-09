@@ -5,3 +5,5 @@ Simple website tool made by Erwin.
 - Enter the website link to the '[website]' input.
 - Press enter.
 - And after that you got the result.
+
+# https://twitter.com/ervvun
