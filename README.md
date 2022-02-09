@@ -1,4 +1,4 @@
-# web tool
+# Website tool
 Simple website tool made by Erwin.
 
 # How to use
