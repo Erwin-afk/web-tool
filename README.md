@@ -6,4 +6,4 @@ Simple website tool made by Erwin.
 - Press enter.
 - And after that you got the result.
 
-# https://twitter.com/ervvun
+-https://twitter.com/ervvun
